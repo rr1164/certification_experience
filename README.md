@@ -13,7 +13,7 @@
 ### I learned Python through cs50 and did around 80% of the tasks on the cs50x website.
 
 # C++
-### about a year ago I picked up c++ for competitive programming and solved ~ 300 problems combined on all platforms.I'm solving MR. mostafa saad's sheet and I'm also currently learning this course : https://www.udemy.com/course/dscpp-skills/
+### about a year ago I picked up c++ for competitive programming and solved ~ 300 problems combined on all platforms. <br> I'm solving DR. mostafa saad's sheet and I'm also currently learning this course : https://www.udemy.com/course/dscpp-skills/
 
 * my codeforces account: https://codeforces.com/profile/Yousef_Shora
 * mostafa saad sheet link: https://docs.google.com/spreadsheets/d/1JtW8Y6mAIZtDcFv-YMHFrXCTZ9H4D69XE3OEj6jyjeM/

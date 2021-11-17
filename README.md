@@ -1,5 +1,5 @@
 # Java
-### I learned java through a lot of resources and did a lot of apps with it. I finished the following java courses:
+### I learned java through a lot of resources and did a lot of apps with it. I finished the following java courses :
 * abdullah eid java 101 (around 2016-17)
 * abdullah eid java 102 (around 2016-17)
 * udacity 1 million arab coders - android development track

@@ -28,7 +28,7 @@
 * some designs on codepen: https://codepen.io/yousef-shora and https://github.com/rr1164/restaurant_website
 * projects involving simple back-end development like : https://github.com/rr1164/School_System
 
-future goals :
+# future goals :
 ## finish the 3 following courses in the time span of 3-6 months:
 * https://www.udemy.com/course/dscpp-skills/ (~ 1 - 1.5 months)
 * https://www.udemy.com/course/skills-algorithms-cpp/ ( ~1 - 1.5 months)

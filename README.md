@@ -6,7 +6,11 @@
 ![this is an image](https://i.postimg.cc/0jqfv41b/0001.jpg)
 * udacity android nanodegree https://graduation.udacity.com/nd803-ent-mena
 ![this is an image](https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/251d41fe-8e9e-4df9-8ad8-d5444083e67b.svg)* 
+* one of my best android projects : https://github.com/rr1164/Microphone_Booster
 * all the apps I created with java on my google play page: https://play.google.com/store/apps/developer?id=Yousef+Shora
+
+# Python
+### I learned Python through cs50 and did around 80% of the tasks on the cs50x website.
 
 # C++
 ### about a year ago I picked up c++ for competitive programming and solved ~ 300 problems combined on all platforms.I'm solving MR. mostafa saad's sheet and I'm also currently learning this course : https://www.udemy.com/course/dscpp-skills/

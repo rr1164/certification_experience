@@ -32,6 +32,6 @@
 
 # future goals :
 ## finish the 3 following courses in the time span of 3-6 months:
-* https://www.udemy.com/course/dscpp-skills/ (~ 1 - 1.5 months)
-* https://www.udemy.com/course/skills-algorithms-cpp/ ( ~1 - 1.5 months)
+* ~~https://www.udemy.com/course/dscpp-skills/ ( 1 - 1.5 months)~~
+* ~~https://www.udemy.com/course/skills-algorithms-cpp/ ( 1 - 1.5 months)~~
 * https://www.udemy.com/course/skills-coding-interviews/ ( 3 months)
